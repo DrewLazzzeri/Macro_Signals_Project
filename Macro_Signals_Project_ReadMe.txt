@@ -8,5 +8,4 @@ a csv file with the processed McCracken data as outlined on the website.
 
 McCracken_Data.csv: The raw McCracken data used for the study (the specific vintage will be available on the website). 
 
-RegimeLASSO.ipynb: Current working file which splits the securities into larger industries by SIC code and then evaluates the sensitivity to each 
-during specific macro regimes based on the whole cross-section and by larger industry grouping.
+Macroeconomic Dataframe Processing.ipynb: Current working file which splits the securities into larger industries by SIC code and then evaluates the sensitivity to select stock factors and macroeconomic factors during specific macro regimes based on the whole cross-section and by larger industry grouping.
